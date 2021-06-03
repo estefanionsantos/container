@@ -1,6 +1,6 @@
 <?php 
 
-namespace Belgian\Container;
+namespace Rubricate\Container;
 
 
 interface IServiceContainer
