@@ -13,4 +13,3 @@ interface IServiceEns
     public function is(string $name);
 }
 
-
