@@ -1,10 +1,10 @@
 {
 
-    "name": "rubricate/container",
+    "name": "ens/container",
     "license": "MIT",
     "authors": [
         {
-            "name": "Estefanio NS",
+            "name": "Estefanio N Santos",
             "email": "estefanions@gmail.com"
         }
     ],
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Rubricate\\Container\\": "Rubricate/Container/"
+            "Ens\\Container\\": "Ens/Container/"
         }
     }
 }
