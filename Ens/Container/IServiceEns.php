@@ -1,9 +1,8 @@
 <?php 
 
-namespace Rubricate\Container;
+namespace Ens\Container;
 
-
-interface IServiceContainer
+interface IServiceEns
 {
     public function set(string $name, $service);
 
@@ -11,7 +10,7 @@ interface IServiceContainer
 
     public function get(string $name);
 
-    public function has(string $name);
+    public function is(string $name);
 }
 
 
